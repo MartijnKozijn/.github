@@ -1,7 +1,3 @@
-Hier is een concept voor een README-bestand voor de GitHub-organisatie van MartijnKozijn, geschreven in het Nederlands en met emoji's:
-
----
-
 # Welkom bij MartijnKozijn 🚪🖥️
 
 ## Over Ons 🏢
@@ -45,7 +41,3 @@ Heb je vragen of wil je meer weten? Neem gerust contact met ons op:
 ---
 
 ⭐ **Volg ons op GitHub en blijf op de hoogte van onze nieuwste projecten!**
-
----
-
-Dit is slechts een voorbeeld en kan worden aangepast op basis van de specifieke kenmerken en behoeften van MartijnKozijn.
